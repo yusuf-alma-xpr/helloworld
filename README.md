@@ -1,6 +1,3 @@
 # helloworld
 ### helloworld
 
-```
-git clone 
-```
